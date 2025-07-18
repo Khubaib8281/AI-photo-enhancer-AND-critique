@@ -2,6 +2,8 @@
 *.pdf
 *.txt
 *.log
+*.jpg
+*.jpeg
 
 .vscode/
 
@@ -11,6 +13,7 @@
 
 .venv/
 
+.__init__.py
 .__pycache__/
 *.py[cod]
 
