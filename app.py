@@ -49,13 +49,6 @@ st.markdown("""
             margin-top: 1.5rem;
         }
 
-        label[data-baseweb="radio"] {
-            color: black;
-            background-color: black ;
-            border-radius: 6px;
-            # display: inline-block;
-        }
-
         .stRadio > div {
             justify-content: center;
             background-color: black !important;
@@ -81,7 +74,7 @@ st.markdown("""
             background-color: black;
             border: 1px dashed #94a3b8;
             border-radius: 10px;
-            color : black;
+            color : white;
             padding: 1rem;
         }
 
