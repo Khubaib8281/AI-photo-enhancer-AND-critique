@@ -11,7 +11,7 @@ from image_preprocessing.gemini_interface import ask_gemini_edit_instructions, m
 from image_preprocessing.metadata_extractor import metadata
 
 # ------------------ Streamlit Config ------------------ #
-st.set_page_config(page_title="VisionTune | AI Photo Enhancer", layout="wide")
+st.set_page_config(page_title="AesthetiQ AI", layout="wide")
 
 # ------------------ Custom CSS ------------------ #
 st.markdown("""
@@ -125,7 +125,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ------------------ Title ------------------ #
-st.markdown('<div class="main-title">🎨 VisionTune: AI Photo Critique & Style Matching</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">🎨 AesthetiQ AI: Intelligent Photo Evaluator and Tone Matcher</div>', unsafe_allow_html=True)
 
 # ------------------ File Save Utility ------------------ #
 def save_uploaded_file(uploaded_file):
