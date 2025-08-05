@@ -1,7 +1,7 @@
 opencv-python
 streamlit
 numpy
-PIL
+pillow
 generativeai
 torch
 scikit-learn
@@ -9,3 +9,4 @@ ultralytics
 YOLO
 clip
 face_recognition
+
