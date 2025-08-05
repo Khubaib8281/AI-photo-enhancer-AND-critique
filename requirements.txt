@@ -8,5 +8,3 @@ scikit-learn
 ultralytics
 YOLO
 clip
-face_recognition
-
