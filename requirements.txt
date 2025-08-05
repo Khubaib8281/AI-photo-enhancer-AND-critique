@@ -2,11 +2,11 @@ opencv-python
 streamlit
 numpy
 pillow
-cv2
 generativeai
 torch
 scikit-learn
 ultralytics
 YOLO
 clip
+
 
