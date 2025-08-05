@@ -1,0 +1,12 @@
+opencv-python
+cv2
+streamlit
+numpy
+PIL
+generativeai
+torch
+scikit-learn
+ultralytics
+YOLO
+clip
+face_recognition
