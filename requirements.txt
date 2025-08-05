@@ -1,12 +1,13 @@
-opencv-python
+opencv-python-headless
 streamlit
 numpy
 pillow
-generativeai
+google-generativeai
 torch
 scikit-learn
 ultralytics
 YOLO
 clip
+
 
 
