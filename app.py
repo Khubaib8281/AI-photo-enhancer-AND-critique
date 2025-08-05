@@ -8,7 +8,7 @@ import tempfile
 # Local module import
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from image_preprocessing.gemini_interface import ask_gemini_edit_instructions, match_tones
-from image_preprocessing.metadata_extractor import metadata
+from metadata_extractor import metadata
 
 # ------------------ Streamlit Config ------------------ #
 st.set_page_config(page_title="VisionTune | AI Photo Enhancer", layout="wide")
