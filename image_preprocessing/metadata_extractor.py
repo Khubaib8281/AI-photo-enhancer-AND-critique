@@ -3,7 +3,6 @@ import numpy as np
 from PIL import Image
 from sklearn.cluster import KMeans
 from ultralytics import YOLO
-import face_recognition
 import clip, torch
 
 def calculate_brightness(img):
