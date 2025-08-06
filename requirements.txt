@@ -1,13 +1,10 @@
-opencv-python-headless
 streamlit
+opencv-python-headless
 numpy
 pillow
 google-generativeai
 torch
 scikit-learn
 ultralytics
-YOLO
-clip
-
-
-
+face-recognition
+git+https://github.com/openai/CLIP.git@main#egg=openai_clip
