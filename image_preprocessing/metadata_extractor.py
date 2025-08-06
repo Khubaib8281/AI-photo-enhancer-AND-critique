@@ -4,7 +4,7 @@ from PIL import Image
 from sklearn.cluster import KMeans
 from ultralytics import YOLO
 import torch
-import openai_clip as clip
+import clip
 
 def calculate_brightness(img):
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
