@@ -8,6 +8,16 @@
 - 🧠 **Prompt-Based Editing Suggestions**: Provide a prompt (e.g., “make this look cinematic” or “vintage 90s vibe”), and AesthetiQ-AI will generate personalized editing suggestions.
 - 🧪 **Tone Matching from Sample Image**: Upload your original image and a **reference/sample image** — AesthetiQ-AI analyzes both and suggests how to make your original image match the tone of the reference.
 
+---
+
+## 📸 Screenshots
+
+| Photo Evaluation section | Tone Matcher Section | Results |
+|---------------|----------------|------------------|
+| ![Interfce](main.jpg) | ![Chat](2.jpg) | ![Highlight](res.jpg) |
+
+---
+
 ## 🛠️ Tech Stack
 
 - `Python`
